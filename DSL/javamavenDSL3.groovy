@@ -50,7 +50,7 @@ job('Job test Hola Mundo') {
 	description('Aplicacion Hola Mundo de Prueba')
 	steps {
 		shell('''
-			echo "asdfasdf"
+			echo "20 puntos ahi dice profe"
 		''')
 	}
 }
